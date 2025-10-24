@@ -1,7 +1,5 @@
 ## Phishcan v1.1
 ### Don't copy the code
-## Author: https://github.com/INDIATECHYOUTUBE/PhishCan##, nerd! 
-### My Youtube : https://www.youtube.com/channel/UCxwRU278xsYp3Y-QHGoMTPw ##
 
 ### Features:
 You can hack 18 popular social accounts
@@ -18,9 +16,7 @@ Don't harm any one.
 3. Then run ./phishcan.sh
 ### Usage:
 ```
-git clone https://github.com/INDIATECHYOUTUBE/PhishCan
+git clone https://github.com/GaaZos/PhishCan
 cd PhishCan
 ./phishcan.sh
-```
-## Donate :
-<noscript><a href="https://paypal.me/indiatechyoutube"><img alt="Donate 👍 using Paypal" src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-200px.png"></a></noscript>
+``
